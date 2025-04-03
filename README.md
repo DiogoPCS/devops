@@ -1,8 +1,8 @@
 # devops
 Repositório para teste em aula de integração e entrega contínua
 
-# Faculdade de Tecnologia de Tatuí - Fatec TA
-## Curso de Desenvolvimento de Sistemas
+# Faculdade de Tecnologia de Tatuí - Fatec TATUÍ
+## Curso de Análise Desenvolvimento de Sistemas
 
 ### Desenvolvedor: Diogo
 
